@@ -11,7 +11,7 @@ I used [*MIRA*](mira-assembler.sourceforge.net), [*Omega*](http://omega.omicsbio
 - [FLASH](ccb.jhu.edu/software/FLASH/)
 - [bbmap](bbmap.sourceforge.net)
 - [QUAST](http://quast.bioinf.spbau.ru/)
-- 
+
 ## Structure
 
 ### 00-simulate_reads
